@@ -7,6 +7,7 @@ class Program
     {
         List<string> householdItems = new List<string>
         {
+            "Microwave Oven",
             "Refirgrator",
             "Table",
             "Chair",
